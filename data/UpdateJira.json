@@ -1,0 +1,15 @@
+{ 
+	"fields": 
+{
+ 	"project": 
+{
+ 				"key": "REST1" 
+},
+				"summary": "Update an existing Jira",
+				"description": "Update an issue using project keys and issue type names using the REST API - Json File",
+ 	"issuetype": 
+{
+  				"name": "Story" 
+} 
+}
+}
